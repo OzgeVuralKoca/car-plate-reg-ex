@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #e6e6e6;
+}
+
+body {
+    margin: 30px;
+    font-family: "Garamond", Times, serif;
+}
+
+h1 {
+    color: #d61515;
+    margin-bottom: 10px;
+}
+
+table,
+th,
+td {
+    border: 1px solid #d61515;
+}
+
+table {
+    border-collapse: collapse;
+    min-width: 300px;
+    text-align: left;
+}
+
+th {
+    padding: 4px;
+}
+
+.head {
+    font-size: 1.2em;
+}
+
+tbody {
+    font-weight: 200;
+}
+
+.exp {
+    border: 1px solid #d61515;
+    padding: 30px;
+    width: 250px;
+    height: 150px;
+}
+
+button,
+input,
+#result {
+    padding: 5px;
+    font-size: 1em;
+    margin-bottom: 20px;
+
+}
